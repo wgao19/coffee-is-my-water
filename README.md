@@ -8,8 +8,8 @@ description: >-
 
 ## Singapore
 
-[Kurasu](./SG/kurasu.md)
-[Liberty Coffee](./SG/liberty-coffee.md)
+- [Kurasu](./SG/kurasu.md)
+- [Liberty Coffee](./SG/liberty-coffee.md)
 
 ## U.S.
 
