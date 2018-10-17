@@ -6,3 +6,11 @@ description: >-
 
 # Hello, ☕️!
 
+## Singapore
+
+[Kurasu](./SG/kurasu.md)
+[Liberty Coffee](./SG/liberty-coffee.md)
+
+## U.S.
+
+[Blue Bottle](./US/blue-bottle.md)
